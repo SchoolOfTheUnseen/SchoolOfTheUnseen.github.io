@@ -12,3 +12,5 @@ He likes
 * his wife
 
 > Eine Frage habe ich noch.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/3/34/ColumboSeasonOne.jpg"/>
